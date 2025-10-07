@@ -8,7 +8,7 @@
 #define BOARD_H 20
 #define TET_SIZE 4
 
-/* Timing (ms) */
+
 #define BASE_DELAY 800
 #define LEVEL_SPEED_STEP 60 /* ms less per level */
 

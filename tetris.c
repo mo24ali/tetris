@@ -311,7 +311,6 @@ void hard_drop(Piece *p) {
     }
 }
 
-/* initialize ncurses windows */
 void init_ncurses() {
     initscr();
     cbreak();
